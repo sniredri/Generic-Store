@@ -1,0 +1,11 @@
+.frstLayerBckGrnd{
+    background: #ada996 !important;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffffff, #ece9e6, #ffffff) !important;  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffffff, #ece9e6, #ffffff) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.mainBackGround{
+    background:  #cfd9df ;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,#cfd9df, #e2ebf0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cfd9df, #e2ebf0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}

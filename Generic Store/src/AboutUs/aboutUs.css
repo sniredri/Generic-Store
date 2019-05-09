@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+.title{
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.paragraph{
+    font-size: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.mapTitle{
+    font-size: 30px;
+    font-family: 'Karla', sans-serif;
+}
+
+.mapBorder{
+    border: 2px solid black;
+    -webkit-box-shadow:0px 0px 10px 3px #473636 ;
+    -moz-box-shadow:0px 0px 10px 3px #473636 ;
+    box-shadow:0px 0px 10px 3px #473636 ;
+}
+
+.mapAdress{
+    font-size: 20px;
+}
